@@ -1,0 +1,5 @@
+{
+  "name": "Responsive Portfolio Navbar",
+  "description": "A modern, responsive navigation bar for a personal portfolio website, built with React and Tailwind CSS. It features a clean design with a theme toggle and a mobile-friendly hamburger menu.",
+  "requestFramePermissions": []
+}
