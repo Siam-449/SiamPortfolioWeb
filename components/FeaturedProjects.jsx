@@ -13,12 +13,12 @@ const projectsData = [
     imageUrl: '/images/educationalWebsiteFrontend.png',
   },
   {
-    title: 'Agency Website Frontend',
-    description: 'Interactive agency website with real-time UI updates, and team collaboration interface built with Html, Modern CSS and Bootstrap5.',
-    tags: ['HTML5', 'CSS3', 'Bootstrap5'],
-    liveDemoUrl: 'https://www-silicon.netlify.app/',
-    codeUrl: 'https://github.com/Siam-449/Silicon',
-    imageUrl: '/images/agencyWebsite.png',
+    title: 'Shophoria E-Commerce Frontend',
+    description: 'A modern e-commerce platform built with Next.js and Tailwind CSS. Features product browsing, a dynamic shopping cart, and a seamless, responsive user interface.',
+    tags: ['Next.js', 'Tailwind CSS', 'React'],
+    liveDemoUrl: 'https://shopshophoria.netlify.app/',
+    codeUrl: 'https://github.com/Siam-449/Shophoria',
+    imageUrl: '/images/shopshophoria-ecommerce.png',
   },
 ];
 
