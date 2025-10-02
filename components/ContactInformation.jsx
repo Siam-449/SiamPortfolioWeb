@@ -6,7 +6,7 @@ import EyeIcon from './icons/EyeIcon';
 import EyeOffIcon from './icons/EyeOffIcon';
 
 const contactItems = [
-    { icon: MailIcon, label: 'Email', value: 'azizulhakim986@gmail.com', href: 'mailto:azizulhakim986@gmail.com' },
+    { icon: MailIcon, label: 'Email', value: 'azizulhakimsiam986@gmail.com', href: 'mailto:azizulhakim986@gmail.com' },
     { icon: PhoneIcon, label: 'Phone', value: 'PHONE NUMBER IS HIDDEN DUE TO SECURITY REASONS, PLEASE, USE THE CONTACT FORM OR DM ME IN MY SOCIAL MEDIA. ', href: 'tel:+880XXXXXXXXXX' },
     { icon: LocationIcon, label: 'Location', value: 'Dhaka, Bangladesh' },
 ];
